@@ -4,7 +4,7 @@ Automatically vendors grey items.
 
 ## Overview
 
-Automatically vendors grey items when visit a merchant and outputs profit made.
+Automatically vendors grey items when visit a merchant and outputs profits made.
 
 ## Report Issues
 
