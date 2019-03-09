@@ -1,0 +1,22 @@
+## Interface: 80100
+## Title: GreyScrap
+## Notes: Automatically vendors grey items.
+## Notes-deDE: Automatically vendors grey items.
+## Notes-esES: Automatically vendors grey items.
+## Notes-esMX: Automatically vendors grey items.
+## Notes-frFR: Automatically vendors grey items.
+## Notes-itIT: Automatically vendors grey items.
+## Notes-koKR: Automatically vendors grey items.
+## Notes-ptBR: Automatically vendors grey items.
+## Notes-ruRU: Automatically vendors grey items.
+## Notes-zhCN: Automatically vendors grey items.
+## Notes-zhTW: Automatically vendors grey items.
+## Author: Gendr
+## Version: 1.0
+
+## X-Category: Bags & Inventory
+## X-Website: https://github.com/Gendr/GreyScrap
+## X-Curse-Project-ID: 
+## X-WoWI-ID: 
+
+GreyScrap.lua
